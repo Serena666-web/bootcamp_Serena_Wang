@@ -1,4 +1,4 @@
-# Project Title
+# Tracking NVIDIA Weekly Stock Prices
 **Stage:** Problem Framing & Scoping (Stage 01)
 ## Problem Statement
 Sometimes it could be hard to make investment decisions regarding stocks. More specifically,when to buy in and when to sell it out? This project aims to take NVIDIA (NVDA) stock as an example to show how to use CS to help keep track of weekly fluctuation of stocks to make more informed decision. By consistently tracking and analyzing weekly stock prices, I can identify patterns, monitor volatility, and take a more disciplined, data-driven approach to investing in NVIDIA.
