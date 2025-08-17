@@ -20,9 +20,9 @@ The useful answer will be both descriptive (summarizing weekly returns, volatili
 
 ## Lifecycle Mapping
 Goal → Stage → Deliverable
-- <Goal A> → Problem Framing & Scoping (Stage 01) → Project scope & repo setup
-- <Goal B> → Data Analysis (Stage 02) → Descriptive metrics & plots
-- <Goal C> → Modeling (Stage 03) → Forecast signals & decision support
+- Goal A → Problem Framing & Scoping (Stage 01) → Project scope & repo setup
+- Goal B → Data Analysis (Stage 02) → Descriptive metrics & plots
+- Goal C → Modeling (Stage 03) → Forecast signals & decision support
 
 ## Repo Plan
 /data/, /src/, /notebooks/, /docs/ ; cadence for updates
