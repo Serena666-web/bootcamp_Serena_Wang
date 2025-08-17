@@ -1,5 +1,4 @@
-# Project Title
-**Stakeholder Memo** 
+#Stakeholder Memo
 
 - Expecting a chart of weekly NVIDIA stock prices with moving averages.
 - A table summarizing weekly returns and volatility.
