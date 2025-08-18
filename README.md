@@ -1,7 +1,7 @@
 # Bootcamp Repository
 ## Folder Structure
-- **homework/** → All homework contributions will be submitted here.
-- **project/** → All project contributions will be submitted here.
+- **homework/** → All homework contributions will be submitted here(most of the homework is in project/notebooks as requested).
+- **project/** → All project contributions will be submitted here(Also the
 - **class_materials/** → Local storage for class materials. Never pushed to
 GitHub.
 
@@ -10,3 +10,6 @@ GitHub.
 - Include all required files for grading.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
+## Data Storage
+-data/raw/, data/processed/ are used by request. 
+(For hw5, data is located @ notebooks/homeworknotebooks(executed)/data)
