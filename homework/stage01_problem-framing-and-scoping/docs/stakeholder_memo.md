@@ -1,0 +1,5 @@
+#Stakeholder Memo
+
+- Expecting a chart of weekly NVIDIA stock prices with moving averages.
+- A table summarizing weekly returns and volatility.
+- A short report/summary explaining trends and signals.

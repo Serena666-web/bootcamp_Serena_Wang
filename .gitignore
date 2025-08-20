@@ -3,6 +3,13 @@
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
 
-# Jupyter
-.ipynb_checkpoints/
-**/.ipynb_checkpoints/
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env & secrets
+.env
+.env.*
+
