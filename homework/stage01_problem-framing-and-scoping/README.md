@@ -10,9 +10,3 @@ GitHub.
 - Include all required files for grading.
 ## Project Folder Rules
 - Keep project files organized and clearly named.
-## Data Storage
-- data/raw/, data/processed/ are used by request. 
-(For hw5, data is located @ notebooks/homeworknotebooks(executed)/data)
-##Cleaning Strategy
--Replacing missing value with median
--Normalized

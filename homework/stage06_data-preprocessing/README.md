@@ -12,7 +12,6 @@ GitHub.
 - Keep project files organized and clearly named.
 ## Data Storage
 - data/raw/, data/processed/ are used by request. 
-(For hw5, data is located @ notebooks/homeworknotebooks(executed)/data)
-##Cleaning Strategy
+## Cleaning Strategy
 -Replacing missing value with median
 -Normalized
