@@ -12,6 +12,10 @@ GitHub.
 - Keep project files organized and clearly named.
 ## Data Storage
 - data/raw/, data/processed/ are used by request. 
+-Csv file — human-readable tables (easiest to diff/inspect).
+-Parquet (.parquet) — columnar, compressed, faster for big data (requires pyarrow or fastparquet).
+-Using a configurable data directory (.env) to reads data
 ## Cleaning Strategy
 -Replacing missing value with median
 -Normalized
+(For hw6, I use the demo data from the lecture notebook.)

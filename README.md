@@ -12,7 +12,7 @@ GitHub.
 - Keep project files organized and clearly named.
 ## Data Storage
 - data/raw/, data/processed/ are used by request. 
-(For hw5, data is located @ notebooks/homeworknotebooks(executed)/data)
-##Cleaning Strategy
--Replacing missing value with median
--Normalized
+(For hw5, I use the demo data from the lecture notebook.)
+-Csv file — human-readable tables (easiest to diff/inspect).
+-Parquet (.parquet) — columnar, compressed, faster for big data (requires pyarrow or fastparquet).
+-Using a configurable data directory (.env) to reads data
